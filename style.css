@@ -2,3 +2,8 @@
     padding:0;
     margin:0;
 }
+
+.indice{
+    border-radius:2rem;
+    border:1rem solid black;
+}
